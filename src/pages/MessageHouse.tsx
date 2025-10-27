@@ -131,7 +131,7 @@ const MessageHouse: React.FC = () => {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              Message House Framework 🏠
+              Module 4: Message House Framework 🏠
             </h1>
             <p className="text-lg text-gray-600 mb-4">
               Build structured, impactful messages that resonate with your audience
